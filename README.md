@@ -1,6 +1,6 @@
 # i3conf
 
 
-# INSTALLATION
+## INSTALLATION
 
 Put the config file into the .i3 folder in the home/username directory.
